@@ -1,4 +1,4 @@
-package com.ocr.anthony;
+package com.ocr.nico;
 
 
 public class Main {
