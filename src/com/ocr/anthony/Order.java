@@ -1,4 +1,4 @@
-package com.ocr.anthony;
+package com.ocr.nico;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
